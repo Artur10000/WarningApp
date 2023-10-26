@@ -1,5 +1,7 @@
 # WarningApp
 
+ССЫЛКА НА АРХИВ С ДИСТРИБУТИВОМ https://disk.yandex.ru/d/F2yTRsGo_YMJmQ
+
 + сейчас можно добавлять тайлы карты с проекцией Web Mercator (EPSG/WKID:3857) Google и OpenStreetMap
 + geojson данные также должны быть в этой же проекции
 
